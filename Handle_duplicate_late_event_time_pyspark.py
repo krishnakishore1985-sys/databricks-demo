@@ -7,7 +7,7 @@ spark = SparkSession.builder \
     .getOrCreate()
 
 # ---------------------------------------------------
-# Add arrival order
+# Add arrival order first
 # ---------------------------------------------------
 
 data = [
